@@ -1,0 +1,113 @@
+Initial state : 
+3 3 0
+6 2 1
+1 5 4
+--Breadth First Search Algorithm --
+Solution path :
+Left
+Down
+Down
+Right
+Up
+Left
+Left
+Down
+Right
+Right
+Up
+Left
+Left
+Up
+Right
+Down
+Down
+Right
+Up
+Up
+Left
+Down
+Left
+Up
+
+Generted nodes = 102430
+Expanded nodes = 77770
+Found at level : 24
+-------------------------------------------
+--Iterative Deepening Search Algorithm --
+Initial State : 
+3 3 0
+6 2 1
+1 5 4
+Solution path :
+Left
+Down
+Down
+Right
+Up
+Up
+Left
+Down
+Down
+Left
+Up
+Right
+Down
+Right
+Up
+Up
+Left
+Down
+Right
+Up
+Left
+Down
+Down
+Left
+Up
+Up
+Right
+Down
+Right
+Down
+Left
+Up
+Left
+Up
+
+Generted nodes = 270970
+Expanded nodes = 270924
+Found at level : 34
+-------------------------------------------
+--A* Search Algorithm --
+Initial State : 
+3 3 0
+6 2 1
+1 5 4
+Solution path :
+Left
+Down
+Down
+Right
+Up
+Left
+Left
+Down
+Right
+Up
+Up
+Left
+Down
+Right
+Right
+Down
+Left
+Up
+Up
+Right
+Down
+Left
+Up
+Left
+Generated Nodes= 1253
+Expanded Nodes = 474
+Found at level = 24
